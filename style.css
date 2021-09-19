@@ -1,0 +1,31 @@
+h1,
+h3 {
+  background: green;
+  color: white;
+  border-width: 10px;
+  font-family: "Garamond","Times New Roman", "Lucida Console";
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p,
+li {
+  font-family: "Lucida Console", "Courrier New";
+}
+
+p {
+ color: green; 
+}
+
+li {
+  font-size: 18px;
+  color: green;
+}
+
+
